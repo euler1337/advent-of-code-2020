@@ -8,10 +8,11 @@ package advent.of.code
 class App {
 
     val day1 : Day1 = Day1()
+    val day2 : Day2 = Day2()
 
 }
 
 fun main(args: Array<String>) {
-    App().day1.a()
-    App().day1.b()
+    App().day2.a()
+    //App().day1.b()
 }
