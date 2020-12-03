@@ -9,10 +9,11 @@ class App {
 
     val day1 : Day1 = Day1()
     val day2 : Day2 = Day2()
+    val day3 : Day3 = Day3()
 
 }
 
 fun main(args: Array<String>) {
-    App().day2.a()
+    App().day3.a()
     //App().day1.b()
 }
