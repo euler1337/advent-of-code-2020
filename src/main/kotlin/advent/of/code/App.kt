@@ -14,6 +14,6 @@ class App {
 }
 
 fun main(args: Array<String>) {
-    App().day3.a()
+    App().day3.b()
     //App().day1.b()
 }
